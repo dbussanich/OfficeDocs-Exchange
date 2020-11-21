@@ -67,7 +67,7 @@ Microsoft recommends that the on-premises endpoints for AutoDiscover and ActiveS
 - All Outlook iOS and Android and Office mobile app FQDNs as defined in [Microsoft 365 or Office 365 URLs and IP address ranges](https://docs.microsoft.com/office365/enterprise/urls-and-ip-address-ranges).
 
 ## Client features that aren't supported
-The following features are not support for on-premises mailboxes using basic authentication with Outlook for iOS and Android:
+The following features are not supported for on-premises mailboxes using basic authentication with Outlook for iOS and Android:
 
 - Draft folder and Draft messages synchronization
 
